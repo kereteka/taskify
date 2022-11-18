@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#go-btn:hover > p {
+	text-shadow: 0px 0px 5px #23d0e7;
+}
